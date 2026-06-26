@@ -1,4 +1,3 @@
-````md
 # Nmap Fundamentals and Network Scanning Project
 
 ## Introduction

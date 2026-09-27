@@ -63,7 +63,7 @@ During this learning process, challenges were encountered in understanding scan 
 
 This project improved practical knowledge of network scanning and reconnaissance techniques. Different Nmap scans were performed to identify ports, running services, and system information in a safe virtual environment.
 
-## Conclusion
+
 
 This project provided practical exposure to Nmap fundamentals and improved cybersecurity knowledge related to network reconnaissance and service identification. The hands-on experience helped in strengthening skills useful for SOC analyst and ethical hacking roles.
 
